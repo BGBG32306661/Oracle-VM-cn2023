@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Server listening on UDP port 7779
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.4 port 7779 connected with 10.0.0.2 port 59671
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3]  0.0- 1.0 sec   131 KBytes  1.07 Mbits/sec   0.016 ms    0/   91 (0%)
+[  3]  1.0- 2.0 sec   128 KBytes  1.05 Mbits/sec   0.015 ms    0/   89 (0%)
+[  3]  2.0- 3.0 sec   128 KBytes  1.05 Mbits/sec   0.030 ms    0/   89 (0%)
+[  3]  3.0- 4.0 sec   129 KBytes  1.06 Mbits/sec   0.014 ms    0/   90 (0%)
+[  3]  0.0- 5.0 sec   640 KBytes  1.05 Mbits/sec   0.041 ms    0/  446 (0%)

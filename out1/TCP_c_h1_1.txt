@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.3, TCP port 7777
+TCP window size:  102 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.1 port 52434 connected with 10.0.0.3 port 7777
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec   245 KBytes  2.00 Mbits/sec
+[  3]  1.0- 2.0 sec   106 KBytes   869 Kbits/sec
+[  3]  2.0- 3.0 sec   127 KBytes  1.04 Mbits/sec
+[  3]  3.0- 4.0 sec   106 KBytes   869 Kbits/sec
+[  3]  4.0- 5.0 sec  84.8 KBytes   695 Kbits/sec
+[  3]  0.0- 5.0 sec   669 KBytes  1.09 Mbits/sec
